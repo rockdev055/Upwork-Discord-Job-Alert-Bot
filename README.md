@@ -1,4 +1,4 @@
-# Upwork Job Alert Bot
+<div align="center">Upwork Job Alert Bot</div>
 
 ![Upwork Job Alert Bot](https://github.com/Zeeshanahmad4/Upwork-Discord-Job-Alert-Bot/blob/main/Screen%20Shot%202023-04-28%20at%209.58.22%20AM.png)
 
