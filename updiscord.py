@@ -8,7 +8,7 @@ import pytz
 import ssl
 
 # Replace 'YOUR_BOT_TOKEN' with your Discord bot token
-TOKEN = 'MTEwMDI5MTEzMzQzNjg2MjQ2NA.GmrSHw.rVDu3__L4KVJ7L3jYAlh6YglRhQN966UdgdxnY'
+TOKEN = ''
 
 intents = discord.Intents.default()
 intents.messages = True
@@ -43,7 +43,7 @@ async def on_ready():
 @tasks.loop(minutes=2)
 async def check_new_jobs():
     # Replace 'YOUR_CHANNEL_ID' with the ID of the channel where you want to receive notifications
-    channel = bot.get_channel(1100293743699034152)
+    channel = bot.get_channel(11002937324324243699034152)
     if not channel:
         return
 
