@@ -1,6 +1,6 @@
 # Upwork Job Alert Bot
 
-![Upwork Job Alert Bot](https://your_image_url_here.com/bot_image.png)
+![Upwork Job Alert Bot](https://github.com/Zeeshanahmad4/Upwork-Discord-Job-Alert-Bot/blob/main/Screen%20Shot%202023-04-28%20at%209.58.22%20AM.png)
 
 This is a Discord bot that fetches the latest jobs from an Upwork RSS feed and posts them in a designated Discord channel. The bot checks for new jobs every 2 minutes, and it can also be triggered manually using the `!checknow` command.
 
